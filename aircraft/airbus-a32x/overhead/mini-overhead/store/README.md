@@ -2,7 +2,7 @@
 # Airbus Mini Overhead Setup
 
 1. Ensure you have installed MobiFlight on your computer from here: https://www.mobiflight.com/en/download.html
-2. Download the .mcc file from here: https://github.com/MobiFlight/mobiflight-panels/tree/main/aircraft/airbus-a32x/overhead/mini-overhead/store (click on the file and at the top right corner then click the downwards pointing arrow going into a tray labelled 'download raw file' when hovered over with your mouse).
+2. Download the .mcc file for your aircraft from here: https://github.com/MobiFlight/mobiflight-panels/tree/main/aircraft/airbus-a32x/overhead/mini-overhead/store (click on the file and at the top right corner then click the downwards pointing arrow going into a tray labelled 'download raw file' when hovered over with your mouse).
 
 3.	Open the .mcc from within MobiFlight taking care not to skip the next step
 
