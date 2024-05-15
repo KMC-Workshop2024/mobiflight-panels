@@ -13,3 +13,5 @@
 ![Logo](https://github.com/MobiFlight/mobiflight-panels/blob/main/aircraft/airbus-a32x/overhead/mini-overhead/store/mf.jpg?raw=true)
 
 5.	Open your sim and once you are in the aircraft click Run in Mobiflight
+
+6. Here is a video of how to set it up: https://youtu.be/RvfjID5TWdc?si=yWm07fJjmDm7nx9v&t=186
