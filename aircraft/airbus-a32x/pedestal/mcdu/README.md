@@ -19,6 +19,9 @@ and 3 of the FET pads on the PCB.
 either traditional components ie. 3mm LED or surface 
 mount components.
 
+**The Screen** - It's better to use a 5' screen, this is also the most suitable screen for MCDU at present.
+Reference @datamann
+
 **Additional function buttons** - If discreet additional 
 function buttons are desired they can be put in place of
 the top 5 indicator LEDs and used for functons such as 
