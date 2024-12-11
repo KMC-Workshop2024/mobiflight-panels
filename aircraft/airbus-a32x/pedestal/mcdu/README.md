@@ -24,6 +24,10 @@ function buttons are desired they can be put in place of
 the top 5 indicator LEDs and used for functons such as 
 TO Config, Cabin Call or any other function that is desired.
 
+**The Screen** - This MCDU is design for 5' screen, so the space
+on the back of this panel is more suitable for 5' screen than other
+size.
+
 This is DZUS mount compliant so it will fit in any cockpit 
 using this mounting system (although this is optional).
 
